@@ -6,6 +6,7 @@ This repository provides a comprehensive overview of **Perovskite Solar Cells (P
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
+- [Codes](#Codes)
 - [Videos](#videos)
 - [Images](#images)
 - [Installation](#installation)
@@ -20,6 +21,10 @@ This repository provides a comprehensive overview of **Perovskite Solar Cells (P
 - **Optimization Algorithms** for maximizing power conversion efficiency.
 - **Environmental and Economic Analysis** for understanding the feasibility of PSCs in comparison to silicon solar cells.
 - **Data Visualizations**: Generate plots and charts to visualize efficiency trends, stability data, and environmental impact.
+
+## Source Codes
+
+These are some demo code which you can personalize and run that will give you the estimates and visual representation of the codes generated to us. Feel free to edit the code and make it personalize and change the demo data for demonstration or calculation part.
 
 ## Videos
 
@@ -53,14 +58,25 @@ Some of the application areas:
 
 ## Refrences
 
+Kojima, Teshima, Shirai, & Miyasaka (2009)
+Green, Ho-Baillie, & Snaith (2014)
+Park, Grätzel, Miyasaka, Zhu, & Emery (2016)
+Kim & Park (2014)
+Jena, Kulkarni, & Miyasaka (2019)
+Gao, Yusoff, & Nazeeruddin (2018)
+Calnan & Li (2018)
+Liu, Zheng, & Shi (2016)
 
 
 ## Acknowledgement
 
+We would like to express our special thanks of gratitude to our teachers Dr. Pushan sir, Abhik sir as well as our HOI Dr. Birajashis Pattnaik who gave us the golden opportunity to do this wonderful project on the topic Perovskite Solar Cell, which also helped us in doing a lot of Research and we came to know about so many new things We are really thankful to them.
+Secondly I would also like to thank our classmates who helped us a lot in finalizing this project within the limited time frame.
 
 
 ## Contacts
 
-
+MD MANJARUL HAUQUE, AARYAN KHARE, PRATEEK KUMAR
+For any queries, please feel free to contact: prateek.kumar17@s.amity.edu
 
 

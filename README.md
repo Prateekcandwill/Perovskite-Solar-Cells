@@ -10,7 +10,7 @@ This repository provides a comprehensive overview of **Perovskite Solar Cells (P
 - [Videos](#videos)
 - [Images](#images)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Usage](#Usage)
 - [References](#references)
 - [Acknowledgments](#acknowledgments)
 - [Contacts](#contacts)

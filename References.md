@@ -43,3 +43,11 @@
 
 2. **Gao, P., Bin Mohd Yusoff, A. R., & Nazeeruddin, M. K.** (2018). *Review on efficient perovskite solar cells with low-cost flexible substrates.* Materials Today, 20(10), 595-612.  
    - Discusses the integration of perovskite solar cells with flexible substrates for innovative applications.
+   - 
+## Most helpful Files
+
+https://www.aisin.com/en/aithink/innovation/blog/006050.html
+
+https://www.soleosenergy.com/11-way-perovskite-solar-cells-the-futuresolar/#:~:text=Perovskite%20solar%20cells%20have%20the,advancements%20being%20made%20are%20promising
+
+https://iopscience.iop.org/article/10.1088/1361-6463/ad4daf

@@ -6,7 +6,7 @@ This repository provides a comprehensive overview of **Perovskite Solar Cells (P
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Codes](#Codes)
+- [Codes](#codes)
 - [Videos](#videos)
 - [Images](#images)
 - [Installation](#installation)

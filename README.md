@@ -7,8 +7,6 @@ This repository provides a comprehensive overview of **Perovskite Solar Cells (P
 - [Overview](#overview)
 - [Features](#features)
 - [Codes](#codes)
-- [Videos](#videos)
-- [Images](#images)
 - [Installation](#installation)
 - [Usage](#Usage)
 - [References](#references)
@@ -25,13 +23,6 @@ This repository provides a comprehensive overview of **Perovskite Solar Cells (P
 ## Source Codes
 
 These are some demo code which you can personalize and run that will give you the estimates and visual representation of the codes generated to us. Feel free to edit the code and make it personalize and change the demo data for demonstration or calculation part.
-
-## Videos
-
-(https://github.com/Prateekcandwill/Perovskite-Solar-Cells/blob/719002015a262a1a56ad6db112eac09ae9be5ddd/manufacturingdemo.mp4)
-
-
-## Images
 
 
 ## Installation
